@@ -1,5 +1,7 @@
 # enckrip
 
+$ pkg install python-pip
+
 $ pip install --upgrade pip
 
 $ pkg install git
