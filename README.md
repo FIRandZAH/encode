@@ -1,4 +1,4 @@
-# enckrip
+# encode
 
 $ pkg install python-pip
 
@@ -25,3 +25,7 @@ $ cd enckrip
 $ git pull
 
 $ python enc.py
+
+# decode
+
+$ python decode.py
