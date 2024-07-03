@@ -18,7 +18,7 @@ $ pip install rich
 
 $ rm -rf enckrip
 
-$ git clone https://github.com/FIRandZAH/enckrip
+$ git clone https://github.com/FIRandZAH/encode
 
 $ cd enckrip
 
