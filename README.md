@@ -16,7 +16,7 @@ $ pip install requests
 
 $ pip install rich
 
-$ rm -rf enckrip
+$ rm -rf encode
 
 $ git clone https://github.com/FIRandZAH/encode
 
