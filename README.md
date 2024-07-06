@@ -20,7 +20,7 @@ $ rm -rf encode
 
 $ git clone https://github.com/FIRandZAH/encode
 
-$ cd enckrip
+$ cd encode
 
 $ git pull
 
