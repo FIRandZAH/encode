@@ -8,6 +8,8 @@ $ pkg install git
 
 $ pkg install python
 
+$ pip install base16
+
 $ pip install stdiomask
 
 $ pip install bs4
