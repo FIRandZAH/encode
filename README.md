@@ -12,7 +12,7 @@ pip install base16 requests
 git clone https://github.com/FIRandZAH/encode
 cd encode
 python enc.py
-
+```
 <h2>_SCREENSHOT_</h2>
 <br>
 <p align="center">
