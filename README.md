@@ -9,11 +9,11 @@
 Untuk menginstal dan menjalankan script encoding ini, ikuti langkah-langkah berikut:
 
 ```sh
-pkg install python python-pip git -y
-pip install base16 requests
-git clone https://github.com/FIRandZAH/encode
-cd encode
-python enc.py
+$ pkg install python python-pip git -y
+$ pip install base16 requests
+$ git clone https://github.com/FIRandZAH/encode
+$ cd encode
+$ python enc.py
 ```
 <h2>_SCREENSHOT_</h2>
 <br>
