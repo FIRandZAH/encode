@@ -1,5 +1,3 @@
-![Visitor Count](https://shields.io/badge/dynamic/json?color=green&label=Visitors&query=value&url=https://api.countapi.xyz/hit/FIRandZAH/encode)
-
 <p align="center">
   made by FIRMAN
 </p>
