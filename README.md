@@ -1,5 +1,5 @@
 <p align="center"> 
- pengunjung 
+ PENGUNJUNG 
  <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">
 </p>
 
