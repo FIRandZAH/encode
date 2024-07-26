@@ -1,6 +1,3 @@
-![Visitor Count](https://shields.io/badge/dynamic/json?color=green&label=Executions&query=value&url=https://api.countapi.xyz/hit/FIRandZAH/encode?value=6)
-
-
 <p align="center">
   made by FIRMAN
 </p>
