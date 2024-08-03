@@ -25,7 +25,7 @@ $ python enc.py
 <h2>_SCREENSHOT_</h2>
 <br>
 <p align="center">
-  <img src="Screenshot_2024-07-23-06-28-32-16_c759c44d10a956b96f85cc66750ff86e.jpg" alt="Screenshot" width="400"/>
+  <img src="foto_enc.jpg" alt="Screenshot" width="400"/>
 </p>
 
 ## 📬 Contact
