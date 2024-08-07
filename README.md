@@ -17,7 +17,7 @@ Untuk menginstal dan menjalankan script encoding ini, ikuti langkah-langkah beri
 
 ```sh
 $ pkg install python python-pip git -y
-$ pip install base16 requests
+$ pip install base16 base91 requests
 $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
 $ python enc.py
