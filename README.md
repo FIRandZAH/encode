@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  script by: FIRMAN
+  script by: FIRZAH
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+Encoding+Code+Python)](https://git.io/typing-svg)
