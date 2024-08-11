@@ -5,7 +5,7 @@
 import os, sys
 os.system('git pull')
 try:
-    __import__("data_enc").melaku()
+    __import__("data").melaku()
 except Exception as e:
     exit(str(e))
 
