@@ -22,10 +22,15 @@ $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
 $ python enc.py
 ```
-<h2>_SCREENSHOT_</h2>
+<h2>ENCODE</h2>
 <br>
 <p align="center">
   <img src="foto enc.jpg" alt="Screenshot" width="400"/>
+</p>
+<h2>DECODE</h2>
+<br>
+<p align="center">
+  <img src="foto dec.jpg" alt="Screenshot" width="400"/>
 </p>
 
 ## 📬 Contact
