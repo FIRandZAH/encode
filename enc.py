@@ -5,7 +5,7 @@
 import os, sys
 os.system('git pull')
 try:
-    __import__("data_enc").firzah()
+    __import__("data").firzah()
 except Exception as e:
     exit(str(e))
 
