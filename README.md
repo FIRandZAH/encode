@@ -29,7 +29,7 @@ $ pkg install python python-pip git -y
 $ pip install base16 requests cython pycryptodome
 $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
-$ python decodw.py
+$ python decode.py
 ```
 <h2>ENCODE</h2>
 <br>
