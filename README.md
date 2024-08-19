@@ -16,8 +16,14 @@
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
 ```sh
-$ pkg install python python-pip git -y
-$ pip install base16 requests cython pycryptodome
+$ pkg update && pkg upgrade -y
+$ pkg install python -y
+$ pkg install python-pip -y
+$ pkg install git -y
+$ pip install base16
+$ pip install requests
+$ pip install cython
+$ pip install pycryptodome
 $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
 $ python enc.py
@@ -25,8 +31,14 @@ $ python enc.py
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
-$ pkg install python python-pip git -y
-$ pip install base16 requests cython pycryptodome
+$ pkg update && pkg upgrade -y
+$ pkg install python -y
+$ pkg install python-pip -y
+$ pkg install git -y
+$ pip install base16
+$ pip install requests
+$ pip install cython
+$ pip install pycryptodome
 $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
 $ python decode.py
