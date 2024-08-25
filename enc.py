@@ -5,6 +5,5 @@
 # yang bisa ngedec niat amat di luar nalar
 import os, sys
 os.system('git pull')
-try:
-    __import__("data")
+import data
 
