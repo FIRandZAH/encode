@@ -39,6 +39,7 @@ $ pip install requests
 $ pip install pycryptodome
 $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
+$ chmod +x pycdc
 $ python decode.py
 ```
 <h2>ENCODE</h2>
