@@ -37,7 +37,7 @@ $ python enc.py
 ## opsi 1 the best enckripsi
 
 Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES,  untuk menjalankan file yang sudah dienkripsi AES diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-- 
+
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
@@ -52,11 +52,18 @@ $ cd encode
 $ chmod +x pycdc
 $ python decode.py
 ```
+
 <h2>DECODE</h2>
 <br>
 <p align="center">
   <img src="dec.jpg" alt="Screenshot" width="400"/>
 </p>
+### Fitur :
+- **Decode Marshal.zlib.base dan lainnya:** untuk dec enc kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
+- **Decode base/zlib emote dan lainnya:** untuk dec enc tunggal base/zlib.
+- **Decode pyc:** untuk dec pyc.
+- **Decode eval lambda romi:** untuk dec eval lambda enc sc romi.
+- **note:** kalo pycdc ga support itu karena pycdc yang bawaan script emang ga support beberapa versi python nya kalo mau support sini WhatsApp tf 1jt 😋.
 
 ## 📬 Contact
 
