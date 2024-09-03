@@ -65,5 +65,5 @@ $ python decode.py
 ## 📬 Contact
 
 Jika kamu memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di
-WhatsApp [https://wa.me/+6283170597744](https://wa.me/+6283170597744)
+WhatsApp https://wa.me/+6283170597744
 ```
