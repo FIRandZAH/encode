@@ -48,7 +48,9 @@ $ python decode.py
   <img src="enc.jpg" alt="Screenshot" width="400"/>
 </p>
 # the best enckiripsi
-opsi 1 aes key cython file utama di enckripsi aes key aes di enckiripsi cython
+
+opsi 1 aes key cython file utama di 
+enckripsi aes key aes di enckiripsi cython
 # fitur
 cython
 conbinasi Marshal zlib base
