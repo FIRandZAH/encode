@@ -27,6 +27,17 @@ $ git clone https://github.com/FIRandZAH/encode
 $ cd encode
 $ python enc.py
 ```
+
+<h2>ENCODE</h2>
+<br>
+<p align="center">
+  <img src="enc.jpg" alt="Screenshot" width="400"/>
+</p>
+
+## opsi 1 the best enckripsi
+
+Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES,  untuk menjalankan file yang sudah dienkripsi AES diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
+- 
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
@@ -41,23 +52,6 @@ $ cd encode
 $ chmod +x pycdc
 $ python decode.py
 ```
-
-<h2>ENCODE</h2>
-<br>
-<p align="center">
-  <img src="enc.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## opsi 1 the best enckripsi
-
-Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES,  untuk menjalankan file yang sudah dienkripsi AES diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-
-### Fitur :
-- **Kombinasi Enkripsi Berlapis:** Memanfaatkan Marshal, Zlib, Base64, dan Cython untuk keamanan maksimum.
-- **Proteksi AES + Cython:** Kunci AES dienkripsi dengan Cython untuk melindungi keamanan data.
-- **Multi-layered Encryption:** Mengamankan kode dengan beberapa lapisan enkripsi untuk meningkatkan keamanan.
-- **Mudah diintegrasikan:** Memastikan kode Python tetap aman tetapi tetap mudah dijalankan.
-
 <h2>DECODE</h2>
 <br>
 <p align="center">
