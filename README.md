@@ -28,7 +28,6 @@ $ cd encode
 $ python enc.py
 ```
 
-<h2>ENCODE</h2>
 <br>
 <p align="center">
   <img src="enc.jpg" alt="Screenshot" width="400"/>
@@ -37,7 +36,7 @@ $ python enc.py
 ## opsi 1 the best enckripsi
 
 Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES,  untuk menjalankan file yang sudah dienkripsi AES diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-
+## 🚀 Install and Run
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
@@ -52,8 +51,6 @@ $ cd encode
 $ chmod +x pycdc
 $ python decode.py
 ```
-
-<h2>DECODE</h2>
 <br>
 <p align="center">
   <img src="dec.jpg" alt="Screenshot" width="400"/>
