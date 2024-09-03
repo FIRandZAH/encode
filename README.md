@@ -47,6 +47,12 @@ $ python decode.py
 <p align="center">
   <img src="enc.jpg" alt="Screenshot" width="400"/>
 </p>
+# the best enckiripsi
+opsi 1 aes key cython file utama di enckripsi aes key aes di enckiripsi cython
+# fitur
+cython
+conbinasi Marshal zlib base
+multi layers
 <h2>DECODE</h2>
 <br>
 <p align="center">
