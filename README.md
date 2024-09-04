@@ -1,3 +1,5 @@
+---
+
 <p align="center"> 
  PENGUNJUNG 
 
@@ -8,9 +10,9 @@
   Script by: FIRZAH
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+Encode+Code+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+Encode+danDecode+Code+Python)](https://git.io/typing-svg)
 
-## 🚀 Install and Run
+## 🚀 Install and Run (Encryption)
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
@@ -33,10 +35,12 @@ $ python enc.py
   <img src="enc.jpg" alt="Screenshot" width="400"/>
 </p>
 
-## opsi 1 the best enckripsi
+## 🔐 Opsi 1: The Best Encryption
 
-Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES,  untuk menjalankan file yang sudah dienkripsi AES diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-## 🚀 Install and Run
+Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES, dan untuk menjalankan file yang sudah dienkripsi, diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
+
+## 🚀 Install and Run (Decode)
+
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
@@ -51,19 +55,22 @@ $ cd encode
 $ chmod +x pycdc
 $ python decode.py
 ```
+
 <br>
 <p align="center">
   <img src="dec.jpg" alt="Screenshot" width="400"/>
 </p>
-### Fitur :
-- **Decode Marshal.zlib.base dan lainnya:** untuk dec enc kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
-- **Decode base/zlib emote dan lainnya:** untuk dec enc tunggal base/zlib.
-- **Decode pyc:** untuk dec pyc.
-- **Decode eval lambda romi:** untuk dec eval lambda enc sc romi.
-- **note:** kalo pycdc ga support itu karena pycdc yang bawaan script emang ga support beberapa versi python nya kalo mau support sini WhatsApp tf 1jt 😋.
+
+## 🔧 Fitur :
+
+- **Decode Marshal.zlib.base dan lainnya:** Untuk mendekripsi enkripsi kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
+- **Decode base/zlib dan lainnya:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
+- **Decode pyc:** Untuk mendekripsi file .pyc.
+- **Decode eval lambda romi:** Untuk mendekripsi skrip yang menggunakan eval lambda yang di-enkripsi script romi.
+- **Note:** Jika pycdc tidak support, itu mungkin karena versi pycdc yang digunakan di dalam script tidak mendukung beberapa versi Python kalo mau support sini WhatsApp tf 1jt 😋.
 
 ## 📬 Contact
 
-Jika kamu memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di
-WhatsApp https://wa.me/+6283170597744
-```
+Jika kamu memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di WhatsApp melalui tautan ini: https://wa.me/+6283170597744.
+
+---
