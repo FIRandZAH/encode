@@ -1,4 +1,3 @@
----
 
 <p align="center"> 
  PENGUNJUNG 
@@ -72,5 +71,3 @@ $ python decode.py
 ## 📬 Contact
 
 Jika kamu memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di WhatsApp melalui tautan ini: https://wa.me/+6283170597744.
-
----
