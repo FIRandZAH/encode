@@ -38,8 +38,8 @@ $ python enc.py
 
 Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES, dan untuk menjalankan file yang sudah dienkripsi, diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
 - **kelebihan enc AES KRY cython dari cython biasa**
-- **1** 1 codingan python tidak perlu rapih.
-- **2** 2 bisa berapapun ukuran file python.
+- **1** codingan python tidak perlu rapih.
+- **2** bisa berapapun ukuran file python.
 ## 🚀 Install and Run (Decode)
 
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
