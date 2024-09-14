@@ -66,6 +66,7 @@ $ python decode.py
 - **Decode base/zlib dan lainnya:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
 - **Decode pyc:** Untuk mendekripsi file .pyc.
 - **Decode eval lambda romi:** Untuk mendekripsi skrip yang menggunakan eval lambda yang di-enkripsi script romi.
+- **Decode simpel embran:** Untuk mendekripsi skrip yang menggunakan simpel embran yang di-enkripsi script embran.
 - **Note:** Jika pycdc tidak support, itu mungkin karena versi pycdc yang digunakan di dalam script tidak mendukung beberapa versi Python kalo mau support sini WhatsApp tf 1jt 😋.
 
 ## 📬 Contact
