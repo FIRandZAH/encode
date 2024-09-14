@@ -63,7 +63,7 @@ $ python decode.py
 ## 🔧 Fitur :
 
 - **Decode Marshal.zlib.base dan lainnya:** Untuk mendekripsi enkripsi kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
-- **Decode base/zlib dan lainnya:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
+- **Decode base/zlib/emote:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
 - **Decode pyc:** Untuk mendekripsi file .pyc.
 - **Decode eval lambda romi:** Untuk mendekripsi skrip yang menggunakan eval lambda yang di-enkripsi script romi.
 - **Decode simpel embran:** Untuk mendekripsi skrip yang menggunakan simpel embran yang di-enkripsi script embran.
