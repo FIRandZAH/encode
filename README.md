@@ -68,7 +68,7 @@ $ python decode.py
 - **2. Decode base/zlib/emote:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
 - **3. Decode pyc:** Untuk mendekripsi file .pyc.
 - **4. Decode eval lambda romi:** Untuk mendekripsi skrip yang di enc menggunakan eval lambda script romi.
-- **5. Decode simpel embran:** Untuk mendekripsi skrip yang di enc menggunakan simpel embran script embran.
+- **5. Decode simpel embran:** Untuk mendekripsi skrip yang di enc menggunakan simpel embran.
 - **6. AES KEY:** Untuk mendekripsi skrip yang di enc AES key cython file utama .txt di perlukan key yang di pake enc.
 - **Note:** Jika pycdc tidak support, itu mungkin karena versi pycdc yang digunakan di dalam script tidak mendukung beberapa versi Python kalo mau support sini WhatsApp tf 1jt 😋.
 
