@@ -20,7 +20,6 @@ $ pkg update && pkg upgrade -y
 $ pkg install python -y
 $ pkg install python-pip -y
 $ pkg install git -y
-$ pip install base16
 $ pip install requests
 $ pip install cython
 $ pip install pycryptodome
