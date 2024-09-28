@@ -23,8 +23,8 @@ $ pkg install git -y
 $ pip install requests
 $ pip install cython
 $ pip install pycryptodome
-$ git clone https://github.com/FIRandZAH/DEC-and-ENC
-$ cd DEC-and-ENC
+$ git clone https://github.com/FIRandZAH/encode
+$ cd encode
 $ python enc.py
 ```
 
@@ -50,8 +50,8 @@ $ pkg install python-pip -y
 $ pkg install git -y
 $ pip install requests
 $ pip install pycryptodome
-$ git clone https://github.com/FIRandZAH/DEC-and-ENC
-$ cd DEC-and-ENC
+$ git clone https://github.com/FIRandZAH/encode
+$ cd encode
 $ python decode.py
 ```
 
