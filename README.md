@@ -16,16 +16,16 @@
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
 ```sh
-$ pkg update && pkg upgrade -y
-$ pkg install python -y
-$ pkg install python-pip -y
-$ pkg install git -y
-$ pip install requests
-$ pip install cython
-$ pip install pycryptodome
-$ git clone https://github.com/FIRandZAH/encode
-$ cd encode
-$ python enc.py
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install python-pip -y
+pkg install git -y
+pip install requests
+pip install cython
+pip install pycryptodome
+git clone https://github.com/FIRandZAH/encode
+cd encode
+python enc.py
 ```
 
 <br>
@@ -44,15 +44,15 @@ Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
-$ pkg update && pkg upgrade -y
-$ pkg install python -y
-$ pkg install python-pip -y
-$ pkg install git -y
-$ pip install requests
-$ pip install pycryptodome
-$ git clone https://github.com/FIRandZAH/encode
-$ cd encode
-$ python decode.py
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install python-pip -y
+pkg install git -y
+pip install requests
+pip install pycryptodome
+git clone https://github.com/FIRandZAH/encode
+cd encode
+python decode.py
 ```
 
 <br>
