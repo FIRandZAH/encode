@@ -22,6 +22,7 @@ pkg install python-pip -y
 pkg install git -y
 pip install requests
 pip install cython
+pip install setuptools
 pip install pycryptodome
 git clone https://github.com/FIRandZAH/encode
 cd encode
