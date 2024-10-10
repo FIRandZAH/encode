@@ -6,4 +6,6 @@
 # ada 400 lapis enc lainnya
 # jadi ga usah di dec
 # kalo gabut yah silahkan
+import os, sys
+os.system('git pull')
 import decode
