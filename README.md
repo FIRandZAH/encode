@@ -16,9 +16,6 @@
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
 ```sh
-pkg update && pkg upgrade -y
-pkg install python -y
-pkg install python-pip -y
 pkg install git -y
 pip install requests
 pip install cython
@@ -45,9 +42,6 @@ Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File
 Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
 
 ```sh
-pkg update && pkg upgrade -y
-pkg install python -y
-pkg install python-pip -y
 pkg install git -y
 pip install requests
 pip install pycryptodome
