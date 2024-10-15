@@ -21,6 +21,7 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
+rm -rf encode
 git clone https://github.com/FIRandZAH/encode
 cd encode
 python enc.py
@@ -45,6 +46,7 @@ Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah beriku
 pkg install git -y
 pip install requests
 pip install pycryptodome
+rm -rf encode
 git clone https://github.com/FIRandZAH/encode
 cd encode
 python decode.py
@@ -69,6 +71,6 @@ python decode.py
 
 Butuh bantuan atau ada pertanyaan?  Silakan hubungi kami melalui:
 
-* **WhatsApp:** https://wa.me/62853170597744
+* **WhatsApp:** https://wa.me/6283170597744
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
 
