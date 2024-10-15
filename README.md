@@ -65,6 +65,10 @@ python decode.py
 - **6. AES KEY:** Untuk mendekripsi skrip yang di enc AES key cython file utama .txt di perlukan key yang di pake enc.
 
 
-## 📬 Contact
+##  🤝  Hubungi Kami
 
-Jika kamu memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di WhatsApp melalui tautan ini: https://wa.me/+6283170597744.
+Butuh bantuan atau ada pertanyaan?  Silakan hubungi kami melalui:
+
+* **WhatsApp:** [wa.me/6283170597744](wa.me/6283170597744)
+* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
+
