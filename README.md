@@ -69,6 +69,6 @@ python decode.py
 
 Butuh bantuan atau ada pertanyaan?  Silakan hubungi kami melalui:
 
-* **WhatsApp:** [wa.me/6283170597744](wa.me/6283170597744)
+* **WhatsApp:** https://wa.me/62853170597744
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
 
