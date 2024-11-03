@@ -49,7 +49,8 @@ pip install pycryptodome
 rm -rf encode
 git clone https://github.com/FIRandZAH/encode
 cd encode
-python decode.py
+chmod +x dec
+./dec
 ```
 
 <br>
