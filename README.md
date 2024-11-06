@@ -44,8 +44,6 @@ Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah beriku
 
 ```sh
 pkg install git -y
-pip install requests
-pip install pycryptodome
 rm -rf encode
 git clone https://github.com/FIRandZAH/encode
 cd encode
