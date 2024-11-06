@@ -66,9 +66,9 @@ chmod +x dec
 - **6. AES KEY:** Untuk mendekripsi skrip yang di enc AES key cython file utama .txt di perlukan key yang di pake enc.
 
 
-##  🤝  Hubungi Kami
+##  🤝  Hubungi saya
 
-Butuh bantuan atau ada pertanyaan?  Silakan hubungi kami melalui:
+Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
 * **WhatsApp:** https://wa.me/6283170597744
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
