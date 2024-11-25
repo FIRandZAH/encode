@@ -21,10 +21,9 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
-rm -rf encode
 git clone https://github.com/FIRandZAH/encode
 cd encode
-python enc.py
+python -c "import firzah_enc"
 ```
 
 <br>
