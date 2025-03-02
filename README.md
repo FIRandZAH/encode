@@ -37,31 +37,6 @@ Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File
 - **kelebihan enc AES KEY cython dari cython biasa**
 - **1** codingan python tidak perlu rapih.
 - **2** bisa berapapun ukuran file python.
-## 🚀 Install and Run (Decode)
-
-Untuk menginstal dan menjalankan script decode ini, ikuti langkah-langkah berikut:
-
-```sh
-pkg install git -y
-git clone https://github.com/FIRandZAH/encode
-cd encode
-chmod +x dec
-./dec
-```
-
-<br>
-<p align="center">
-  <img src="dec.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## 🔧 Fitur :
-
-- **1. Decode Marshal.zlib.base dan lainnya:** Untuk mendekripsi enkripsi kombinasi seperti Marshal.zlib.base.lzma dan lainnya.
-- **2. Decode base/zlib/emote:** Untuk mendekripsi enkripsi tunggal seperti base/zlib/emote kecuali Marshal.
-- **3. Decode pyc:** Untuk mendekripsi file .pyc.
-- **4. Decode simpel embran:** Untuk mendekripsi skrip yang di enc menggunakan simpel embran.
-- **5. AES KEY:** Untuk mendekripsi skrip yang di enc AES key cython file utama .txt di perlukan key yang di pake enc.
-
 
 ##  🤝  Hubungi saya
 
