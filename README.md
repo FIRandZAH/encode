@@ -21,6 +21,7 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
+git pull
 git clone https://github.com/FIRandZAH/encode
 cd encode
 python encode.py
