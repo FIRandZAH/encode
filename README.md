@@ -23,7 +23,7 @@ pip install setuptools
 pip install pycryptodome
 git clone https://github.com/FIRandZAH/encode
 cd encode
-python -c "import firzah_enc"
+python encode.py
 ```
 
 <br>
