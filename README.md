@@ -9,9 +9,39 @@
   Script by: FIRZAH
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+Encode+dan+Decode+Code+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+enc+Code+Python)](https://git.io/typing-svg)
+## 📌 Catatan Penting
 
-## 🚀 Install and Run (Encryption)
+- **note** tidak support, code python yang menggunakan modul file, bisa harus kostumisasi dulu chat admin, atau yang faham sistem nya bisa kostumisasi sendiri.
+- **note** Sebelum melakukan encoding atau kompilasi kode Python, pastikan sistem main sudah sesuai agar dapat terdeteksi oleh Cython.
+
+❌ Sebelum (tidak terdeteksi Cython):
+```py
+def main():
+    print("Masuk")
+if __name__ == "__main__":
+    main()
+```
+✅ Sesudah (terdeteksi oleh Cython):
+```py
+def main():
+    print("Masuk")
+main()
+```
+🔍 Contoh Sebelum dan Sesudah
+
+<p align="center">  
+  <strong>Sebelum Perubahan</strong>  
+</p>  
+<p align="center">  
+  <img src="foto.jpg" alt="Screenshot Sebelum" width="400"/>  
+</p>  <p align="center">  
+  <strong>Sesudah Perubahan</strong>  
+</p>  
+<p align="center">  
+  <img src="foto1.jpg" alt="Screenshot Sesudah" width="400"/>  
+
+## 🚀 Install and Run
 
 Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
 
@@ -29,17 +59,6 @@ chmod +x encode
 ./encode
 ```
 
-<br>
-<p align="center">
-  <img src="enc.jpg" alt="Screenshot" width="400"/>
-</p>
-
-## 🔐 Opsi 1: The Best Encryption
-
-Opsi 1 menggunakan kombinasi AES dan Cython untuk mengenkripsi file Python. File Python dienkripsi menggunakan AES, dan untuk menjalankan file yang sudah dienkripsi, diperlukan kunci AES. Kunci AES ini kemudian dienkripsi lagi menggunakan kombinasi Marshal, zlib, base, dan Cython untuk memberikan keamanan tambahan.
-- **kelebihan enc AES KEY cython dari cython biasa**
-- **1** codingan python tidak perlu rapih.
-- **2** bisa berapapun ukuran file python.
 
 ##  🤝  Hubungi saya
 
@@ -47,4 +66,3 @@ Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
 * **WhatsApp:** https://wa.me/6283170597744
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
-
