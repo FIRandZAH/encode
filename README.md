@@ -24,7 +24,9 @@ pip install pycryptodome
 git clone https://github.com/FIRandZAH/encode
 cd encode
 git pull
-python encode.py
+python unduh.py
+chmod +x encode
+./encode
 ```
 
 <br>
