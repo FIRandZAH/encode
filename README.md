@@ -51,7 +51,7 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
-git clone https://github.com/FIRandZAH/encode
+git clone --depth=1 https://github.com/FIRandZAH/encode
 cd encode
 git pull
 python unduh.py
