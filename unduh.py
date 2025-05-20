@@ -4,7 +4,7 @@ import subprocess
 from tqdm import tqdm
 link = "https://raw.githubusercontent.com/FIRandZAH/FIRZAH/refs/heads/main/encode"
 file_name = "encode"
-ukuran_ne = 21 * 1024 * 1024 
+ukuran_ne = 23 * 1024 * 1024 
 def unduh(url):
     response = requests.get(url, stream=True)
     total_size = int(response.headers.get('content-length', 0))
