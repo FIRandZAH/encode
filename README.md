@@ -1,8 +1,7 @@
-
 <p align="center"> 
- PENGUNJUNG 
+ PENGUNJUNG  
 
- <img src="https://profile-counter.glitch.me/FIRandZAH/count.svg" alt="Visitors">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=FIRandZAH.encode&left_color=gray&right_color=green" alt="Visitors"/>
 </p>
 
 <p align="center">
