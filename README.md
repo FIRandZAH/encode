@@ -7,7 +7,8 @@
 </p>
 ## 📌 Catatan Penting
 
-- **note** Sebelum melakukan encoding cython atau kompilasi kode Python, pastikan sistem main sudah sesuai agar dapat terdeteksi sebagai modul.
+- **note**
+- Sebelum melakukan encoding cython atau kompilasi kode Python, pastikan sistem main sudah sesuai agar dapat terdeteksi sebagai modul.
 
 ❌ Sebelum (tidak terdeteksi Cython):
 ```py
