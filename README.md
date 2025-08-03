@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=88888833&width=435&lines=Script+enc+Code+Python" alt="Typing SVG"/>
 </p>
 ## 📖 Deskripsi
+
 - **Terdapat 3 opsi utama**
 
 - **Encryp Obfuscation Cython**
