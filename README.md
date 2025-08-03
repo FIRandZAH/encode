@@ -9,12 +9,15 @@
 
 - **Terdapat 3 opsi utama**
 
-- **Encryp Obfuscation Cython**
-- Compile kode Python dengan Cython, lalu kemas file `.so` hasil kompilasi di kemas kembali menjadi skrip Python. Saat dijalankan, file `.so` akan otomatis dihasilkan dan diimpor.
-- **Encryp C suport 32/64bit, linux/wsl**
-- Ubah kode Python menjadi kode C, lalu kemas bersama wrapper Python. Saat dijalankan, skrip Python akan otomatis mengompilasi kode C tersebut dan mengimpornya.
-- **Encryp Obfuscation**
-- Obfuscation code python, merumitkan code python bagi orang kebanyakan akan sulit algoritma code ini.
+- **🔐 Encryp Obfuscation Cython**
+- Kode Python dikompilasi menggunakan Cython menjadi file .so (shared object).
+- File .so tersebut kemudian dikemas ulang menjadi satu skrip Python.
+- Saat skrip dijalankan, file .so akan otomatis di-generate dan langsung di-import ke dalam program.
+- **🔐 Encryp C suport 32/64bit, linux/wsl**
+- Code Python dikonversi menjadi kode C, lalu dikemas dengan code python.
+- Saat dijalankan, skrip Python akan secara otomatis mengompilasi kode C tersebut sesuai arsitektur (32-bit atau 64-bit) dan sistem (Linux/WSL/termux).
+- **🧩 Encryp Obfuscation**
+- Kode Python akan di-obfuscate dengan teknik penyamaran kompleks, membuat struktur dan logika kode menjadi sulit dipahami.
 
 
 
