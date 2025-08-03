@@ -1,10 +1,7 @@
 <p align="center"> 
  PENGUNJUNG  
- 
- <img src="https://visitor-badge.glitch.me/badge?page_id=FIRandZAH.encode&left_text=Visitors" alt="visitor badge"/>
-</p>
-<p align="center">
-  Script by: FIRZAH
+
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=FIRandZAH.encode&left_color=gray&right_color=green" alt="Visitors"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=31FF9400&width=435&lines=Script+enc+Code+Python)](https://git.io/typing-svg)
