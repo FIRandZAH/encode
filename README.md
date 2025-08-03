@@ -5,19 +5,33 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=88888833&width=435&lines=Script+enc+Code+Python" alt="Typing SVG"/>
 </p>
+## 📖 Deskripsi
+- **Terdapat 3 opsi utama**
+- **Encryp Obfuscation Cython**
+- Compile kode Python dengan Cython, lalu kemas file `.so` hasil kompilasi di kemas kembali menjadi skrip Python. Saat dijalankan, file `.so` akan otomatis dihasilkan dan diimpor.
+- **Encryp C suport 32/64bit, linux/wsl**
+- Ubah kode Python menjadi kode C, lalu kemas bersama wrapper Python. Saat dijalankan, skrip Python akan otomatis mengompilasi kode C tersebut dan mengimpornya.
+- **Encryp Obfuscation**
+- Obfuscation code python, merumitkan code python bagi orang kebanyakan akan sulit algoritma code ini.
+
+
+
+
+
+
 ## 📌 Catatan Penting
 
 - **note**
 - Sebelum melakukan encoding cython atau kompilasi kode Python, pastikan sistem main sudah sesuai agar dapat terdeteksi sebagai modul.
 
-❌ Sebelum (tidak terdeteksi Cython):
+❌ Sebelum (tidak terdeteksi modul):
 ```py
 def main():
     print("Masuk")
 if __name__ == "__main__":
     main()
 ```
-✅ Sesudah (terdeteksi oleh Cython):
+✅ Sesudah (terdeteksi oleh modul):
 ```py
 def main():
     print("Masuk")
