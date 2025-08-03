@@ -7,6 +7,7 @@
 </p>
 ## 📖 Deskripsi
 - **Terdapat 3 opsi utama**
+
 - **Encryp Obfuscation Cython**
 - Compile kode Python dengan Cython, lalu kemas file `.so` hasil kompilasi di kemas kembali menjadi skrip Python. Saat dijalankan, file `.so` akan otomatis dihasilkan dan diimpor.
 - **Encryp C suport 32/64bit, linux/wsl**
