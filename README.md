@@ -1,9 +1,8 @@
 <p align="center"> 
  PENGUNJUNG  
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=FIRandZAH&left_color=gray&right_color=green" alt="Visitors"/>
+ 
+ <img src="https://visitor-badge.glitch.me/badge?page_id=FIRandZAH.encode&left_text=Visitors" alt="visitor badge"/>
 </p>
-
 <p align="center">
   Script by: FIRZAH
 </p>
