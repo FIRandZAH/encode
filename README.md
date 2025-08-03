@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FIRandZAH.encode&left_text=PENGUNJUNG&left_color=gray&right_color=green" alt="PENGUNJUNG"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=444444&width=435&lines=Script+enc+Code+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=444444&width=435&lines=+++Script+enc+Code+Python)](https://git.io/typing-svg)
 ## 📌 Catatan Penting
 
 - **note** Sebelum melakukan encoding cython atau kompilasi kode Python, pastikan sistem main sudah sesuai agar dapat terdeteksi sebagai modul.
