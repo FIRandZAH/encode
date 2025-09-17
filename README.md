@@ -87,6 +87,7 @@ chmod +x encode
 
 Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
-* **WhatsApp:** https://wa.me/6283170597744
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283170597744)
+
 * **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com)
 * 
