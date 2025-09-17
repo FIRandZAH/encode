@@ -57,8 +57,9 @@ main()
   <img src="foto1.jpg" alt="Screenshot Sesudah" width="400"/>  
 
 ## 🚀 Install and Run
+**only 64bit**
 
-Untuk menginstal dan menjalankan script encode ini, ikuti langkah-langkah berikut:
+install modul yang di butuhkan
 
 ```sh
 pkg install git -y
@@ -66,18 +67,26 @@ pip install requests
 pip install cython
 pip install setuptools
 pip install pycryptodome
+```
+
+install Script 
+
+```sh
 git clone --depth=1 https://github.com/FIRandZAH/encode
 cd encode
-git pull
 python unduh.py
+```
+run script
+
+```sh
 chmod +x encode
 ./encode
 ```
-
 
 ##  🤝  Hubungi saya
 
 Butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
 * **WhatsApp:** https://wa.me/6283170597744
-* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
+* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com)
+* 
