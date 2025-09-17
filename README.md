@@ -89,4 +89,4 @@ mailto bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283170597744)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/firzah.892352?mibextid=ZbWKwL)
-[![](https://img.shields.io/badge/Email-hello%40example.com-red?logo=gmail&logoColor=white&labelColor=white)](mailto:firzah48@gmail.com) 
+[![](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=mail&logoColor=white&labelColor=white)](mailto:firzah48@gmail.com)
